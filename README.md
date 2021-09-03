@@ -10,7 +10,7 @@ This is my first self made chart.
 $ helm install hello-world ./hello-world --create-namespace lab
 ```
 
-# From this repo
+## From this repo
 
 ```bash
 $ helm repo add aka-cafu-helm-charts-labs https://aka-cafu.github.io/helm-charts-labs
